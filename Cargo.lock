@@ -796,7 +796,7 @@ dependencies = [
 
 [[package]]
 name = "nyaa-tui"
-version = "1.4.1"
+version = "1.5.0"
 dependencies = [
  "ratatui",
  "roxmltree",
